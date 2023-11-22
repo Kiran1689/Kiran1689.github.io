@@ -1,0 +1,188 @@
+.projects-main {
+  width: 100%;
+  text-align: center;
+}
+
+.basic-projects {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.projects-heading-div {
+  display: flex;
+}
+
+.projects-heading-div > * {
+  flex: 1;
+}
+
+.projects-heading-img-div {
+  align-items: center;
+  justify-content: center;
+}
+
+.projects-heading-text-div {
+  text-align: center;
+}
+
+.projects-heading-img-div > * {
+  max-width: 100%;
+  height: auto;
+}
+
+.projects-heading-text {
+  font-size: 56px;
+  font-weight: 400;
+  font-family: "Google Sans Medium";
+  line-height: 1.1;
+  text-align: center;
+  margin-top: 80px;
+}
+
+.projects-heading-sub-text {
+  font-size: 30px;
+  font-family: "Google Sans Regular";
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.projects-header-detail-text {
+  font-size: 20px;
+  line-height: 30px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+  font-family: "Google Sans Medium";
+}
+
+.repo-cards-div-main {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 1rem 1rem;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 60px;
+}
+
+.project-images {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+  margin-top: 2%;
+
+}
+
+.project-image {
+  width: 70%;
+  height: auto;
+  object-fit: cover;
+  margin-bottom: 20px;
+  box-shadow: 5px 5px 5px #393838;
+}
+
+.certs-header {
+  font-size: 40px;
+  line-height: 1.1;
+  font-family: "Google Sans Regular";
+  text-align: center;
+  margin-top: 7%;
+}
+
+@media (max-width: 1380px) {
+  .projects-heading-text {
+    font-size: 50px;
+    margin-top: 80px;
+  }
+  .projects-heading-sub-text {
+    font-size: 25px;
+  }
+  .certs-header {
+    font-size: 35px;
+  }
+}
+
+@media (max-width: 768px) {
+  .certs-header {
+    font-size: 25px;
+  }
+  .projects-heading-text {
+    font-size: 30px;
+    margin-top: 20px;
+  }
+
+  .projects-heading-sub-text {
+    font-size: 20px;
+  }
+
+  .projects-heading-div {
+    flex-direction: column;
+  }
+
+  .projects-header-detail-text {
+    font-size: 16px;
+    margin-right: 0px;
+    margin-left: 0px;
+    line-height: normal;
+    text-align: center;
+  }
+
+  .repo-cards-div-main {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+  }
+
+  .slideshow-container {
+    margin: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  
+}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: rgb(214, 190, 244);
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.dot.active {
+  background-color: #55198b;
+}
+
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
