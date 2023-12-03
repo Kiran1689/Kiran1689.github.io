@@ -1,3 +1,10 @@
 .opensource-main {
   width: 100%;
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .opensource-main {
+    margin-right: -138px;
+  }
 }
