@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.db7674bb.chunk.css",
-    "main.js": "/static/js/main.ee5b5b4c.chunk.js",
-    "main.js.map": "/static/js/main.ee5b5b4c.chunk.js.map",
+    "main.css": "/static/css/main.680047ee.chunk.css",
+    "main.js": "/static/js/main.b3c65a58.chunk.js",
+    "main.js.map": "/static/js/main.b3c65a58.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.57e2d255.js",
     "runtime-main.js.map": "/static/js/runtime-main.57e2d255.js.map",
     "static/js/2.d68f6a66.chunk.js": "/static/js/2.d68f6a66.chunk.js",
     "static/js/2.d68f6a66.chunk.js.map": "/static/js/2.d68f6a66.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.16eaceb0229985415396250206345b05.js": "/precache-manifest.16eaceb0229985415396250206345b05.js",
+    "precache-manifest.5e9381ed3bd4c6bd7de5662b64d20865.js": "/precache-manifest.5e9381ed3bd4c6bd7de5662b64d20865.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.db7674bb.chunk.css.map": "/static/css/main.db7674bb.chunk.css.map",
+    "static/css/main.680047ee.chunk.css.map": "/static/css/main.680047ee.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/BI.png": "/static/media/BI.8af8d137.png",
     "static/media/BI11.jpg": "/static/media/BI11.d0b8a422.jpg",
@@ -31,7 +31,7 @@
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
     "static/media/education.svg": "/static/media/education.caed892b.svg",
     "static/media/experience.svg": "/static/media/experience.85d6957f.svg",
-    "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
     "static/media/feelingProud.svg": "/static/media/feelingProud.a73310ea.svg",
     "static/media/full-weather.png": "/static/media/full-weather.41f959c9.png",
     "static/media/fullstack.svg": "/static/media/fullstack.589bec7d.svg",
@@ -55,8 +55,8 @@
     "static/media/resume4.png": "/static/media/resume4.749ae09f.png",
     "static/media/rtes.PNG": "/static/media/rtes.53d07695.PNG",
     "static/media/rtespu.png": "/static/media/rtespu.0ee23b09.png",
-    "static/media/talksCardBack.svg": "/static/media/talksCardBack.0288c5ec.svg",
-    "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.b48e86c9.svg",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.de3da806.svg",
+    "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.7f0feeed.svg",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg",
     "static/media/weather.mp4": "/static/media/weather.cda3a648.mp4",
     "static/media/weather.png": "/static/media/weather.ead13e0d.png",
@@ -66,7 +66,7 @@
   "entrypoints": [
     "static/js/runtime-main.57e2d255.js",
     "static/js/2.d68f6a66.chunk.js",
-    "static/css/main.db7674bb.chunk.css",
-    "static/js/main.ee5b5b4c.chunk.js"
+    "static/css/main.680047ee.chunk.css",
+    "static/js/main.b3c65a58.chunk.js"
   ]
 }
