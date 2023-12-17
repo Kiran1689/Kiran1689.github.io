@@ -2,7 +2,7 @@
 const seo = {
   title: "Kiran's Portfolio",
   description:
-    "Kiran's Personel Portfolio",
+    "Kiran's Personal Portfolio",
   og: {
     title: "Kiran Naragund Portfolio",
     type: "website",
@@ -19,7 +19,7 @@ const greeting = {
     "Passionate about holistic solutions addressing complex challenges, I develop sustainable systems that make a positive impact through end-to-end product development.",
   resumeLink:
     "https://drive.google.com/file/d/1pPQA2tOBkr9jm0zQ3AercUBWFhyv5Xvy/view?usp=sharing",
-  portfolio_repository: "https://github.com/Kiran1689",
+  portfolio_repository: "https://github.com/Kiran1689/Kiran1689.github.io",
   githubProfile: "https://github.com/Kiran1689",
 };
 
@@ -428,6 +428,80 @@ const competitiveSites = {
   ],
 };
 
+// Experience Page
+const experience = {
+  title: "Experience",
+  subtitle: "Work, Internship and Volunteership",
+  description:
+    "",
+  header_image_path: "experience.svg",
+  sections: [
+    {
+      title: "Work",
+      work: false,
+      experiences: [
+        
+      ],
+    },
+    {
+      title: "Internships",
+      experiences: [
+        {
+          title: "Software Engineer",
+          company: "BlackBird",
+          company_url: "https://www.blackbird.vc/",
+          logo_path: "blackbird.png",
+          duration: "March 2023 - May 2023",
+          location: "Virtual",
+          description:
+            "I have worked on client projects, and developed components for email and password form validation tasks using email-validator library and unit tested validation logic using jest",
+          color: "#000000",
+        }
+        
+      ],
+    },
+    {
+      title: "Volunteerships",
+      experiences: [
+        {
+          title: "Developer Program Member",
+          company: "Github",
+          company_url: "https://github.com/",
+          logo_path: "github_logo.png",
+          duration: "November 2023 - PRESENT",
+          location: "Work From Home",
+          description:
+            "I am actively contributing to many opensource projects. I have contributed to projects of organisations like AutoGPT, Supabase, Tensorflow, Facebook, Scrapy, Exercism, Python, Github community, Forem etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
+          color: "#181717",
+        },
+        {
+          title: "Mentor",
+          company: "Exercism",
+          company_url: "https://exercism.org/",
+          logo_path: "exercism.png",
+          duration: "September 2023 - PRESENT",
+          location: "Work From Home",
+          description:
+            "Exercism is a coding platform for collaborative learning. As an active participant on Exercism I've mentored over 170+ students worldwide. Through real-world coding exercises, I am providing guidance to learners, helping them to enhance their programming skills and achieve their learning goals",
+          color: "#4285F4",
+        },
+        {
+          title: "Moderator",
+          company: "Dev Community",
+          company_url: "https://dev.to/",
+          logo_path: "devcommunity.png",
+          duration: "November 2023 - PRESENT",
+          location: "Work From Home",
+          description:
+            "I am a part of core community moderation team at DEV. As a DEV Tag Moderator, I actively contribute to organizing and improving content on DEV. ",
+          color: "#fc1f20",
+        },
+        
+      ],
+    },
+  ],
+}
+
 // Projects Page
 const projectsHeader = {
   title: "Projects",
@@ -435,6 +509,7 @@ const projectsHeader = {
     "My projects makes use of vast variety of latest technology tools. My best experience is to create full-stack projects and deploy them to web applications using cloud infrastructure.",
   avatar_image_path: "projects_image.svg",
 };
+
 
 // Contact Page
 const contactPageData = {
@@ -471,6 +546,7 @@ export {
   skills,
   degrees,
   certifications,
+  experience,
   projectsHeader, 
   competitiveSites,
   contactPageData,
