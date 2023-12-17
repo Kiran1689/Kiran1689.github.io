@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.680047ee.chunk.css",
-    "main.js": "/static/js/main.2fe73624.chunk.js",
-    "main.js.map": "/static/js/main.2fe73624.chunk.js.map",
+    "main.css": "/static/css/main.f4c17a8b.chunk.css",
+    "main.js": "/static/js/main.8df6682f.chunk.js",
+    "main.js.map": "/static/js/main.8df6682f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.57e2d255.js",
     "runtime-main.js.map": "/static/js/runtime-main.57e2d255.js.map",
-    "static/js/2.d68f6a66.chunk.js": "/static/js/2.d68f6a66.chunk.js",
-    "static/js/2.d68f6a66.chunk.js.map": "/static/js/2.d68f6a66.chunk.js.map",
+    "static/js/2.07c82944.chunk.js": "/static/js/2.07c82944.chunk.js",
+    "static/js/2.07c82944.chunk.js.map": "/static/js/2.07c82944.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.630c5e01d233445b73567a8e548eeedb.js": "/precache-manifest.630c5e01d233445b73567a8e548eeedb.js",
+    "precache-manifest.e2d50013920e293458dee5a7385745b1.js": "/precache-manifest.e2d50013920e293458dee5a7385745b1.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.680047ee.chunk.css.map": "/static/css/main.680047ee.chunk.css.map",
+    "static/css/main.f4c17a8b.chunk.css.map": "/static/css/main.f4c17a8b.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/BI.png": "/static/media/BI.8af8d137.png",
     "static/media/BI11.jpg": "/static/media/BI11.d0b8a422.jpg",
@@ -24,6 +24,7 @@
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
     "static/media/aws.png": "/static/media/aws.65465ca6.png",
     "static/media/black.png": "/static/media/black.5c0da68b.png",
+    "static/media/blackbird.png": "/static/media/blackbird.21cd2743.png",
     "static/media/card.png": "/static/media/card.3e0eb55d.png",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.dfcb7a58.svg",
     "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
@@ -65,8 +66,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.57e2d255.js",
-    "static/js/2.d68f6a66.chunk.js",
-    "static/css/main.680047ee.chunk.css",
-    "static/js/main.2fe73624.chunk.js"
+    "static/js/2.07c82944.chunk.js",
+    "static/css/main.f4c17a8b.chunk.css",
+    "static/js/main.8df6682f.chunk.js"
   ]
 }
