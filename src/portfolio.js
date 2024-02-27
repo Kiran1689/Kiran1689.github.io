@@ -280,6 +280,33 @@ const skills = {
 const certifications = {
   certifications: [
     {
+      title: "Machine Learning Specialization",
+      subtitle: "- Andrew Ng",
+      logo_path: "stanford_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/specialization/P3LRH2XM3PMG",
+      alt_name: "Stanford University",
+      color_code: "#8C151599",
+    },
+    {
+      title: "Advanced Learning Algorithms",
+      subtitle: "- Andrew Ng",
+      logo_path: "deeplearning_ai_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/SHRT2KB6HJJZ",
+      alt_name: "deeplearning.ai",
+      color_code: "#00000099",
+    },
+    {
+      title: "Supervised ML",
+      subtitle: "- Andrew Ng",
+      logo_path: "deeplearning_ai_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/3MDPJMSS8DQH",
+      alt_name: "deeplearning.ai",
+      color_code: "#00000099",
+    },
+    {
       title: "Paper Publication",
       subtitle: "- ISJEM",
       logo_path: "isjem.png",
@@ -440,7 +467,17 @@ const experience = {
       title: "Work",
       work: false,
       experiences: [
-        
+        {
+          title: "Full Stack Developer",
+          company: "C Labs R&D Pvt Ltd",
+          company_url: "https://cyberwarfare.live/",
+          logo_path: "cwl.png",
+          duration: "Jan 2024 - Present",
+          location: "Bangalore",
+          description:
+            "I'm currently working as a Full-Stack Developer at CyberWarFare Labs.",
+          color: "#000000",
+        }
       ],
     },
     {
@@ -454,7 +491,7 @@ const experience = {
           duration: "March 2023 - May 2023",
           location: "Virtual",
           description:
-            "I have worked on client projects, and developed components for email and password form validation tasks using email-validator library and unit tested validation logic using jest",
+            "I have worked on client projects, and developed components for email and password form validation tasks using email-validator library and unit tested validation logic using jest.",
           color: "#000000",
         }
         
@@ -482,7 +519,7 @@ const experience = {
           duration: "September 2023 - PRESENT",
           location: "Work From Home",
           description:
-            "Exercism is a coding platform for collaborative learning. As an active participant on Exercism I've mentored over 170+ students worldwide. Through real-world coding exercises, I am providing guidance to learners, helping them to enhance their programming skills and achieve their learning goals",
+            "Exercism is a coding platform for collaborative learning. As an active participant on Exercism I've mentored over 170+ students worldwide. Through real-world coding exercises, I am providing guidance to learners, helping them to enhance their programming skills and achieve their learning goals.",
           color: "#4285F4",
         },
         {

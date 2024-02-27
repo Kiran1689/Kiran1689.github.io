@@ -1,5 +1,5 @@
 const openSource = {
-  githubConvertedToken: "My token",
+  githubConvertedToken: "My Token",
   githubUserName: "Kiran1689",
 };
 
@@ -110,6 +110,10 @@ const query_pinned_projects = {
 		          url,
 		          description,
 		          isFork,
+              forkCount,
+              stargazers {
+                totalCount
+              }
 		          languages(first:10){
 		            nodes{
 		              name

@@ -15,6 +15,7 @@ import projectImage4 from "../../assests/images/weather.png";
 import projectImage1 from "../../assests/images/BI11.jpg";
 import projectImage3 from "../../assests/images/resume2.png";
 import projectImage5 from "../../assests/images/BI22.jpg";
+import projectImage6 from "../../assests/images/ADP.png"
 
 
 class Projects extends Component {
@@ -112,6 +113,9 @@ class Projects extends Component {
         </div>
         <div className="slideshow-container" ref={this.slidesRef}>
           <div className="mySlides fade">
+            <img src={projectImage6} style={{ width: "100%" }} alt="Slide 6" />
+          </div>
+          <div className="mySlides fade">
             <img src={projectImage1} style={{ width: "100%" }} alt="Slide 1" />
           </div>
           <div className="mySlides fade">
@@ -134,6 +138,7 @@ class Projects extends Component {
           <span className="dot" onClick={() => this.showSlides(3)}></span>
           <span className="dot" onClick={() => this.showSlides(4)}></span>
           <span className="dot" onClick={() => this.showSlides(5)}></span>
+          <span className="dot" onClick={() => this.showSlides(6)}></span>
         </div>
         <Button
           text={"Visit Github"}
