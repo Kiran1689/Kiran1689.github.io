@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9f4059dc25cd0a500c6809de098c5e2",
+    "revision": "e4a1954447822eaf4e80fe813a4c866c",
     "url": "/index.html"
   },
   {
-    "revision": "a0d6d466433ecd1e3371",
+    "revision": "f994491fcbccc4aa9354",
     "url": "/static/css/main.f4c17a8b.chunk.css"
   },
   {
-    "revision": "d373908818b8721b1c74",
-    "url": "/static/js/2.07c82944.chunk.js"
+    "revision": "3bf0799000f3ea3e4f1f",
+    "url": "/static/js/2.33fdf5a5.chunk.js"
   },
   {
-    "revision": "a0d6d466433ecd1e3371",
-    "url": "/static/js/main.8df6682f.chunk.js"
+    "revision": "f994491fcbccc4aa9354",
+    "url": "/static/js/main.1b3dbaba.chunk.js"
   },
   {
     "revision": "1eca90f2cdaa2ecb7d93",
     "url": "/static/js/runtime-main.57e2d255.js"
+  },
+  {
+    "revision": "91e8fcafba389804686bd05fe75a68fb",
+    "url": "/static/media/ADP.91e8fcaf.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -116,8 +120,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/contactMail.d6d4086f.png"
   },
   {
+    "revision": "767948c8179b2507a94b5eb3c7d21ab6",
+    "url": "/static/media/cwl.767948c8.png"
+  },
+  {
     "revision": "434d2b012c3efc3da1ef90549a50f46b",
     "url": "/static/media/data_science.434d2b01.svg"
+  },
+  {
+    "revision": "75a7107b7739a46950f66de29779eb52",
+    "url": "/static/media/deeplearning_ai_logo.75a7107b.png"
   },
   {
     "revision": "59389695208d7454c6607bed51ed4316",
@@ -282,6 +294,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0ee23b09881f7068d196d90a3a5780ea",
     "url": "/static/media/rtespu.0ee23b09.png"
+  },
+  {
+    "revision": "2c497738be3831492aeb6bdc43f19154",
+    "url": "/static/media/stanford_logo.2c497738.png"
   },
   {
     "revision": "de3da8064f2e9ffab945772c2c67e46f",
