@@ -1,15 +1,6 @@
 <div align = "center">
   <h1>Portfolio Website</h1>
-
-  <p>This is my personal portfolio website built using ReactJS, CSS and GraphQL.</p>
 </div>
-
-## Preview
-
-![Portfolio Website Preview](https://user-images.githubusercontent.com/75929997/290880051-f05b1701-15c6-42c5-a8d0-cf63ca0d671a.png)
-
-  
-You can check out the live website [here](https://Kiran1689.github.io).
 
 # Sections 📚
 
